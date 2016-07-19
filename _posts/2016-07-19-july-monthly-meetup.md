@@ -30,6 +30,7 @@ categories: h4
 我们热烈欢迎任何对于Linux以及开源技术感兴趣的朋友前来参加!
 
 # 主题详细信息:
+
 ## 主题1
 《Deep Learning 101 and MXNet Tutorial》
 
