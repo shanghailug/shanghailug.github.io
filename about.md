@@ -4,12 +4,43 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Hacking Thursday
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+### Hacking Thursday 是什么？
+Hacking Thursday 是从台湾的自由软件社区诞生的一种聚会形式, 最初是由几位居住于台北地区的自由软件/开放原代码开发者所发起的，每周四晚上会于特定地点聚会，会议欢迎开发者或用户加入。2010年，台南linux社区的雨苍从台湾到上海来工作，同时也把这种聚会形式介绍给了上海Linux社区，从此上海也开始组织此类活动。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[台湾HackingThursday的活动页面](https://web.archive.org/web/20150427043147/http://hack.ingday.org/)
+
+### 目的：
+目的是以非会议形式 、交换各自提出的想法，轻松的会议过程以礼貌、谦虚与尊重的互信态度接纳并鼓励概念发想、发起新计划、并从开发者的协同开发与经验分享中互相学习。
+ 
+
+### 什么样的人能够参加?
+主要参加成员是自由软件爱好者,或者是希望能够接触社区的人士。
+ 
+
+### 聚会的组织流程：
+目前，每周二下午，由聚会的组织者在SHLUG的邮件列表中会发布聚会计划，有兴趣参与人员可以按照邮件中的地址自行前往参加，聚会场地会有专门的标志识别。聚会没有任何条件限制或参加门槛，活动组织者也不会收取入场费用，但聚会中产生的餐饮费用自付，一般人均约20元－40元。
+ 
+### 内容：
+讨论 web, network, programming, system, blablah….
+交流系统工具 & 使用技巧
+八卦
+ 
+
+### 时间：
+工作日的每周四晚上,一般18:30至21:30,下班后前来即可。
+ 
+
+### 地点：
+以市中心地铁沿线为主,方便所有人,具体地址请关注Maillist里的每周公告
+
+## 月度讲座Monthly Meetup
+
+### 活动介绍：
+
+SHLUG 的月度讲座活动是以讲解中高难度为主的小组授课式聚会。每次活动参加人数通常为30－50人左右，一般设计2－3个技术主题，每个主题讨论时间通常为半个 小时至一个小时之间。主讲人通常为在该主题领域内有较丰富经验的社区成员担任。每次月度讲座的主题会在当月的1日在shlug邮件列表中征集，由社区成员 中自荐上台讲授，并欢迎参与人员与其进行积极讨论。
+
+### 时间：
+
+每月的每三个周五晚上 或 第三个周六日下午（具体时间由当月活动公告确定）
