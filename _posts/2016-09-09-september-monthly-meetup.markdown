@@ -29,6 +29,7 @@ categories: monthly
 我们热烈欢迎任何对于Linux以及开源技术感兴趣的朋友前来参加!
 
 ## 主题内容
+
 ### 主题1
 《Rise of the Machines: Cyber Grand Challenge及DEFCON 24 CTF决赛介绍》
 
