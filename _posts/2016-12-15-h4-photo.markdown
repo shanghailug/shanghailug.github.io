@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2016-12-15 15:37:29 +0000
+categories: h4
+---
+
+[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_1956_5800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_1956_5800+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2024_5000+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2024_5000+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2025_0700+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2025_0700+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2026_0300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2026_0300+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2051_3400+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2051_3400+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2056_0600+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2056_0600+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
