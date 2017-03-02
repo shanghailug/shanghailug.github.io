@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2017-03-02 15:12:00 +0000
+categories: h4
+---
+
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1944_1500+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1944_1500+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1956_2200+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1956_2200+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1956_3500+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1956_3500+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1956_5800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_1956_5800+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2003_3800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2003_3800+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2008_3500+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2008_3500+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2031_4000+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2031_4000+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2034_1500+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2034_1500+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2155_1800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h302.h4/h302_2155_1800+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
