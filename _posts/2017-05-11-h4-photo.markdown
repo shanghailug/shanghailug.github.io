@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2017-05-11 15:31:20 +0000
+categories: h4
+---
+
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2014_4500+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2014_4500+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2014_5300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2014_5300+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2026_5900+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2026_5900+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2039_5400+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2039_5400+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2118_2900+08.m.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h511.h4/h511_2118_2900+08.m.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
