@@ -48,13 +48,13 @@ QuickCheck是一个Haskell的测试库，用于测试函数是否满足某些特
 《Introduction to Cluster Scheduler Nomad》
 
 ### 演讲者
-pure FP 实践者，type theory 爱好者，失业中。
+**Su Yan**，实践纯函数式编程，对 Type Theory 及 Category Theory 感兴趣，目前失业。
 
 ### 简介
-Nomad 是 HashiCorp 推出的一个集群调度器，与其他同类工具相比非常不知名，本次简单介绍一下相关概念以及 Nomad 本身功能。
+Nomad 是 HashiCorp 推出的一个集群调度器，与其他同类工具相比非常不知名，本次简单介绍一下相关概念以及 Nomad 本身。
 
 ### 预计时长
-30分钟
+~40分钟
 
 ### 需要的基础知识
 无
