@@ -117,6 +117,7 @@ $(function() {
 
                 var n0 = $("<table>")
                     .css("text-align", "center")
+                    .css("width", "100%")
                     .append($("<tr>")
                             .append($("<td>")
                                     .append($("<img>")
