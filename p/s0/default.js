@@ -113,7 +113,32 @@ $(function() {
                 console.log(data.succ);
                 console.log(data.curr);
 
-                var n0 = $("<ul>")
+                var v = data.curr.value;
+
+                var n0 = $("<table>")
+                    .css("text-align", "center")
+                    .append($("<tr>")
+                            .append($("<td>")
+                                    .append($("<img>")
+                                            .attr("src", "wechat_" + v + ".png")
+                                            .attr("alt", "wechat " + v)))
+                            .append($("<td>")
+                                    .append($("<img>")
+                                            .attr("src", "alipay_" + v + ".png")
+                                            .attr("alt", "alipay " + v))))
+                    .append($("<tr>")
+                            .append($("<td>")
+                                    .append($("<h3>")
+                                            .css("color", "white")
+                                            .css("background", "#22aa3b")
+                                            .text("微信支付")))
+                            .append($("<td>")
+                                    .append($("<h3>")
+                                            .css("color", "white")
+                                            .css("background", "#019fe8")
+                                            .text("支付宝"))));
+
+                var n1 = $("<ul>")
                     .append($("<li>").text("姓名: " + data.curr.name))
                     .append($("<li>").text("邮箱: " + data.curr.email))
                     .append($("<li>").text("IP: " + data.curr.ip))
@@ -124,7 +149,7 @@ $(function() {
                                     .css("font-family", "monospace")
                                     .css("font-weight", "normal")));
 
-                var n1 = $("<div>").append(n0);
+                var n2 = $("<div>").append(n0).append(n1);
 
                 if (!data.succ) {
                     n1.append($("<p>")
@@ -133,7 +158,7 @@ $(function() {
                               .text("已有记录，提交失败。请修改姓名或邮箱，若匿名则请更换IP"));
                 }
 
-                $("#donate-form").replaceWith(n1);
+                $("#donate-form").replaceWith(n2);
 
                 _s0.update_stat(data.list);
 
