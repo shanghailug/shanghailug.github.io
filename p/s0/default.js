@@ -1,4 +1,4 @@
-var _tgt = "http://127.0.0.1:3000/s0";
+var _tgt = "http://dyn.shlug.org/s0";
 
 var _s0 = {};
 

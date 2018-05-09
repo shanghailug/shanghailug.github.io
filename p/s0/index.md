@@ -32,7 +32,7 @@ permalink: /p/s0/
 
 > 后台服务器代码见： 
 
-<form id="donate-form" action="http://127.0.0.1:3000/s0/h">
+<form id="donate-form" action="http://dyn.shlug.org/s0/h">
 <table>
 <tr>
 <td>姓名或昵称（可选）</td>
