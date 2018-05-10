@@ -6,8 +6,6 @@ permalink: /p/s0/
 <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="default.js"></script>
 
-## ***NOTE: this is draft***{:style="color:red"}
-
 ## 我们现在的情况
 
 目前，SHLUG除了人力外，最大的支出即我们目前持有的shlug.org、shlug.net和shlug.com三个域名的域名费。
