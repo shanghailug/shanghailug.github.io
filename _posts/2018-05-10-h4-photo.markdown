@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2018-05-10 12:19:28 +0000
+categories: h4
+---
+
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_1947_4600+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_1947_4600+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_1949_1000+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_1949_1000+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_2001_3300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_2001_3300+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_2015_1400+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i510.h4/i510_2015_1400+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
