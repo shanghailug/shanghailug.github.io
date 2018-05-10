@@ -90,6 +90,18 @@ _s0.update_stat = function(list) {
 
 };
 
+function is_wechat() {
+    var user_agent = navigator.userAgent;
+
+    var wechat = /micromessenger/i;
+
+    if (wechat.test(user_agent)) {
+        return true;
+    }
+
+    return false;
+}
+
 $(function() {
     $( "#donate-form" ).submit(function(e) {
         e.preventDefault();
@@ -126,6 +138,7 @@ $(function() {
                                             .attr("src", "wechat_" + v + ".png")
                                             .attr("alt", "wechat " + v)))
                             .append($("<td>")
+                                    .attr("class", "qr-alipay")
                                     .append($("<img>")
                                             .attr("src", "alipay_" + v + ".png")
                                             .attr("alt", "alipay " + v))))
@@ -136,10 +149,15 @@ $(function() {
                                             .css("background", "#22aa3b")
                                             .text("微信支付")))
                             .append($("<td>")
+                                    .attr("class", "qr-alipay")
                                     .append($("<h3>")
                                             .css("color", "white")
                                             .css("background", "#019fe8")
                                             .text("支付宝"))));
+
+                if (is_wechat()) {
+                    n0.find(".qr-alipay").css("display", "none");
+                }
 
                 var n1 = $("<ul>")
                     .append($("<li>").text("姓名: " + data.curr.name))
