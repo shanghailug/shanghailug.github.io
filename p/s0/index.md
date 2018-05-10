@@ -36,12 +36,12 @@ permalink: /p/s0/
 <table>
 <tr>
 <td>姓名或昵称（可选）</td>
-<td><input type="text" id="name" name="name"/></td>
+<td><input type="text" id="name" name="name" maxlength="16" /></td>
 </tr>
 
 <tr>
 <td>邮箱（可选）</td>
-<td><input type="text" id="email" name="email"/></td>
+<td><input type="text" id="email" name="email" maxlength="32" /></td>
 </tr>
 </table>
 
