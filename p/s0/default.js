@@ -113,7 +113,7 @@ $(function() {
                 console.log(data.succ);
                 console.log(data.curr);
 
-                window.alert("使用微信或支付宝支付时，请记得在备注里面填捐款码！");
+                window.alert("推荐使用微信支付。使用微信支付时，请记得在备注里面填捐款码！");
 
                 var v = data.curr.value;
 
