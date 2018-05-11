@@ -1,5 +1,10 @@
 var _tgt = "http://dyn.shlug.org/s0";
 
+if ((location.hostname == "127.0.0.1") ||
+    (location.hostname == "localhost")) {
+    _tgt = "http://127.0.0.1:3000/s0";
+}
+
 var _s0 = {};
 
 _s0.update_stat = function(list) {
