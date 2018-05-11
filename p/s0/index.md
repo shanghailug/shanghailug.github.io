@@ -29,6 +29,7 @@ permalink: /p/s0/
 > 支付捐款后，会有人工进行确认，并更新捐款情况。请耐心等待～
 
 > 后台服务器代码见：[shlug-s0](https://github.com/shanghailug/shlug-s0)
+> 本页面是markdonw写的，具体见： [https://github.com/shanghailug/shanghailug.github.io](https://github.com/shanghailug/shanghailug.github.io/tree/master/p/s0)
 
 <form id="donate-form" action="http://dyn.shlug.org/s0/h">
 <table>
