@@ -13,7 +13,7 @@ _s0.update_stat = function(list) {
 
     function add_row(tbl, tag, name, email, value, date, code) {
         var n1 = name.replace("<", "&lt;");
-        var e1 = email.replace(">", "&gt;";
+        var e1 = email.replace(">", "&gt;");
 
         function format_dt(dt) {
             function pad(s) {
