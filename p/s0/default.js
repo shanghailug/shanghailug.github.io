@@ -12,8 +12,8 @@ _s0.update_stat = function(list) {
     var total = 0;
 
     function add_row(tbl, tag, name, email, value, date, code) {
-        var n1 = name.replace("<", "&lt;");
-        var e1 = email.replace(">", "&gt;");
+        var n1 = name.replace("<", "&lt;").replace(">", "&gt;");
+        var e1 = email.replace(">", "&gt;").replace("<", "&lt;");
 
         function format_dt(dt) {
             function pad(s) {
