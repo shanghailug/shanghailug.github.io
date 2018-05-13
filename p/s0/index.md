@@ -32,7 +32,7 @@ permalink: /p/s0/
 
 > 本页面是markdown写的，具体见： [https://github.com/shanghailug/shanghailug.github.io](https://github.com/shanghailug/shanghailug.github.io/tree/master/p/s0)
 
-<form id="donate-form" action="http://dyn.shlug.org/s0/h">
+<form id="donate-form">
 <table>
 <tr>
 <td>姓名或昵称（可选）</td>
@@ -46,7 +46,7 @@ permalink: /p/s0/
 </table>
 
 <p></p>
-<p><input type="submit" id="submit" value="捐款"/></p>
+<p><input type="submit" id="submit" value="活动已结束" disabled="disabled"/></p>
 </form>
 
 ## 捐款情况

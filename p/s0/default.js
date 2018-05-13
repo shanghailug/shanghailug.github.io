@@ -108,7 +108,11 @@ function is_wechat() {
 }
 
 $(function() {
+    $("#donate-form input").attr("disabled", "disabled");
+
     $( "#donate-form" ).submit(function(e) {
+        return;
+
         e.preventDefault();
 
         var name = $("#name").val();
