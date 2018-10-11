@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2018-10-11 14:50:37 +0000
+categories: h4
+---
+
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_1950_1300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_1950_1300+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2020_1200+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2020_1200+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2030_3800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2030_3800+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2030_4700+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2030_4700+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2105_3800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2105_3800+08.JPG)
+[<img src='https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2122_0300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/ia11.h4/ia11_2122_0300+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
