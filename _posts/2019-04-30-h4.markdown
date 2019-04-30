@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2019/05/02 吃吃喝喝Hacking Thursday Night聚餐活动 劳动节放假 暂停"
+date:   2019-04-30 00:00:05 +0000
+categories: h4
+---
+
+劳动节，大家在家好好休息，下周再见～
+
+有关Hacking Thursday活动的介绍：
+[http://www.shlug.org/about/#hacking-thursday](http://www.shlug.org/about/#hacking-thursday)
+
+SHLUG的新浪微博地址：[http://weibo.com/shanghailug](http://weibo.com/shanghailug) 有每次活动照片以及信息发布
