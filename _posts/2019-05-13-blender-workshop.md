@@ -1,20 +1,20 @@
 ---
 layout: post
-title: 2019年5月 Blender自学研讨会
+title: 2019年6月 Blender自学研讨会
 date: 2019-05-13 22:50:00 +0800
 hidden: true
 categories: monthly
 ---
 -------------------------------
-大家好，5月18日（星期六）下午我们举办一场Blender自学研讨会。感谢[Agora Space](#a1)为SHLUG的成员提供免费的场地。
+大家好，6月1日（星期六）下午我们将举办一场Blender自学研讨会。感谢[Agora Space](#a1)为SHLUG的成员提供免费的场地。
 
-**地址:** Agora Space，上海市徐汇区番禺路1199弄9号
+**地址:** Agora Space，上海市徐汇区番禺路1199弄8号楼地下室
 
-**时间:** 2019年5月18日（星期六） 13:00 - 18:00
+**时间:** 2019年6月1日（星期六） 研讨会 13:00 - 18:00，晚餐 18:00 - 19:00
 
-**报名:** SHLUG成员不需要
+**报名:** 对于[SHLUG成员](#a2)，若不需要晚餐，则不用注册(也可选择注册)；若需要晚餐，则要注册
 
-**费用:** [SHLUG成员免费](#a2)
+**费用:** [SHLUG成员](#a2)免费（无晚餐）
 
 # 研讨会内容：
 
@@ -24,6 +24,13 @@ categories: monthly
 
 1. 熟悉Blender的使用： 载入一个预先提供的模型，然后渲染；
 2. 学习模型的修改：例如添加光源、相机等。
+
+研讨下午6点结束后，关于晚餐，有2个选择：
+
+1. 研讨会结束后在Agora Space有晚餐，时间是18:00~19:00，可以在用餐的同时，继续交流Blender的使用。若需要晚餐，则必须[注册](#a4), 注册时选择含晚餐的选项。
+2. 本次活动结束后，照例会组织聚餐活动（若人数不够则取消），就近找一家餐馆聚餐，聊天、交流技术。
+
+需要注意的是，不同于以往的活动，本次活动并非SHLUG单独组织，请大家尽量准时前往，报到的时间为12:30 ~ 13:00。更多请参见[Agora Space的活动网页(英文)](#a5)。
 
 # 预备工作
 
@@ -36,6 +43,8 @@ Martin Bähr，北京GNU/Linux用户组前书记，经验丰富的程序员以�
 -----
 <br />
 
-1. <a name="a1"></a> [http://www.agora-space.com/](http://www.agora-space.com/)
-2. <a name="a2"></a> 订阅了SHLUG邮件列表或者SHLUG的3个微信群的成员
-3. <a name="a3"></a> [https://www.blender.org](https://www.blender.org)
+1. <a name="a1">Agora Space主页</a> [http://www.agora-space.com/](http://www.agora-space.com/)
+2. <a name="a2">SHLUG成员</a> 指订阅了SHLUG邮件列表或者SHLUG的3个微信群的成员
+3. <a name="a3">Blender官网</a> [https://www.blender.org](https://www.blender.org)
+4. <a name="a4">注册链接</a> [https://yoopay.cn/payment/event_new_pay/73052036](https://yoopay.cn/payment/event_new_pay/73052036)
+5. <a name="a5">Agora Space活动链接</a> [https://yoopay.cn/event/73052036](https://yoopay.cn/event/73052036)
