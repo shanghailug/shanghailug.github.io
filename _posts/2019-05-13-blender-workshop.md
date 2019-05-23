@@ -6,15 +6,15 @@ hidden: true
 categories: monthly
 ---
 -------------------------------
-大家好，6月1日（星期六）下午我们将举办一场Blender自学研讨会。感谢[Agora Space](#a1)为SHLUG的成员提供免费的场地。
+大家好，6月1日（星期六）下午我们将举办一场Blender自学研讨会。感谢Agora Space[[1]](#a1)为SHLUG的成员提供免费的场地。
 
 **地址:** Agora Space，上海市徐汇区番禺路1199弄8号楼地下室
 
 **时间:** 2019年6月1日（星期六） 研讨会 13:00 - 18:00，晚餐 18:00 - 19:00
 
-**报名:** 需要[注册](#a4)，未注册可能无法参加活动。<span style="color:red">本次活动注册采用了第三方平台，请自行把握信息风险</span>，注册时可以选择人数，建议多人一起注册，尽可能避免信息风险。
+**报名:** 需要注册[[4]](#a4)，未注册可能无法参加活动。<span style="color:red">本次活动注册采用了第三方平台，请自行把握信息风险</span>，注册时可以选择人数，建议多人一起注册，尽可能避免信息风险。
 
-**费用:** [SHLUG成员](#a2)免费（无晚餐）
+**费用:** SHLUG成员[[2]](#a2)免费（无晚餐）
 
 # 研讨会内容：
 
@@ -27,10 +27,10 @@ categories: monthly
 
 研讨下午6点结束后，关于晚餐，有2个选择：
 
-1. 研讨会结束后在Agora Space有晚餐，时间是18:00~19:00，可以在用餐的同时，继续交流Blender的使用。若需要晚餐，则必须在[注册](#a4)时选择含晚餐的选项。
+1. 研讨会结束后在Agora Space有晚餐，时间是18:00~19:00，可以在用餐的同时，继续交流Blender的使用。若需要晚餐，则必须在注册[[4]](#a4)时选择含晚餐的选项。
 2. 本次活动结束后，照例会组织聚餐活动（若人数不够则取消），就近找一家餐馆聚餐，聊天、交流技术。
 
-需要注意的是，不同于以往的活动，本次活动并非SHLUG单独组织，请大家尽量准时前往，报到的时间为12:30 ~ 13:00。更多请参见[Agora Space的活动网页(英文)](#a5)。
+需要注意的是，不同于以往的活动，本次活动并非SHLUG单独组织，请大家尽量准时前往，报到的时间为12:30 ~ 13:00。更多请参见Agora Space的活动网页(英文)[[5]](#a5)。
 
 # 预备工作
 
@@ -43,8 +43,8 @@ Martin Bähr，北京GNU/Linux用户组前书记，经验丰富的程序员以�
 -----
 <br />
 
-1. <a name="a1">Agora Space主页</a> [http://www.agora-space.com/](http://www.agora-space.com/)
-2. <a name="a2">SHLUG成员</a> 指订阅了SHLUG邮件列表或者SHLUG的3个微信群的成员
-3. <a name="a3">Blender官网</a> [https://www.blender.org](https://www.blender.org)
-4. <a name="a4">注册链接</a> [https://yoopay.cn/payment/event_new_pay/73052036](https://yoopay.cn/payment/event_new_pay/73052036)
-5. <a name="a5">Agora Space活动链接</a> [https://yoopay.cn/event/73052036](https://yoopay.cn/event/73052036)
+- <a name="a1">[1]</a> Agora Space主页 [http://www.agora-space.com/](http://www.agora-space.com/)
+- <a name="a2">[2]</a> SHLUG成员指订阅了SHLUG邮件列表或者SHLUG的3个微信群的成员
+- <a name="a3">[3]</a> Blender官网 [https://www.blender.org](https://www.blender.org)
+- <a name="a4">[4]</a> 注册链接 [https://yoopay.cn/payment/event_new_pay/73052036](https://yoopay.cn/payment/event_new_pay/73052036)
+- <a name="a5">[5]</a> Agora Space活动链接 [https://yoopay.cn/event/73052036](https://yoopay.cn/event/73052036)
