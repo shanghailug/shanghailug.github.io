@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019年6月 Blender自学研讨会
-date: 2019-05-13 22:50:00 +0800
+date: 2019-05-25 11:00:00 +0800
 hidden: false
 categories: monthly
 ---
