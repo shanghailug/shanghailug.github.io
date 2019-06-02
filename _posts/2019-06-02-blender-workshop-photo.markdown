@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "本月月度交流分享活动照片"
+title:  "本月Blender研讨会活动照片"
 date:   2019-06-02 12:02:12 +0000
 categories: monthly
 ---
