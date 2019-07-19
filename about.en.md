@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about.en/
-hidden: true
 ---
 
 ## SHLUG
