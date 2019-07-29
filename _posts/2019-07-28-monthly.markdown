@@ -11,7 +11,7 @@ categories: monthly
 
 **时间:** 2019年8月1日(星期四) 19:30 - 21:30
 
-**报名:** 本次活动为合办，需要注册（尚未开放，开放后更新本通知），活动需要签到才能进入会场。<span style="color:red">注册由第三方提供，请自行把握信息风险</span>。
+**报名:** 本次活动为合办，需要[注册][2]，活动需要签到才能进入会场。<span style="color:red">注册由第三方提供，请自行把握信息风险</span>。
 
 **费用:** 不需要
 
@@ -24,3 +24,4 @@ categories: monthly
 - 21：00-21：30    平安云GitHub企业版--转变企业软件开发模式            彭志雄（平安云GitHub产品专家）
 
 [1]: https://j.map.baidu.com/91/p-J
+[2]: http://www.huodongxing.com/event/5503423922411?td=8023468908550
