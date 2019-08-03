@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "本月月度交流分享活动照片"
+title:  "本月月度交流分享活动照片及相关资料"
 date:   2019-08-03 03:01:47 +0000
 categories: monthly
 ---
+
+[通过 Github 达成不不用用996的新形式工工作](https://github.com/shanghailug/res2019q3/raw/master/j803.monthly/github_story.pdf)
+[在github上阅读linux源码](http://blog.shell909090.org/slides/md/kernel-read.html)
 
 [<img src='https://raw.githubusercontent.com/shanghailug/res2019q3/master/j803.monthly/j801_1922_1800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q3/master/j803.monthly/j801_1922_1800+08.JPG)
 [<img src='https://raw.githubusercontent.com/shanghailug/res2019q3/master/j803.monthly/j801_1933_3400+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q3/master/j803.monthly/j801_1933_3400+08.JPG)
