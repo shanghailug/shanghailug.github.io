@@ -3,7 +3,6 @@ layout: post
 title:  "2019年9月月度技术分享会（草稿）"
 date:   2019-09-23 22:00:00 +0800
 categories: monthly
-hidden: true
 ---
 
 大家好，9月28日(星期六)下午 SHLUG将举行2019年第2次技术交流聚会。本次聚会是和[DWeb Shanghai社区][1]合办的，这是DWeb Shanghai社区的首次活动，分享以DWeb相关内容为主。本次活动场地由流利说赞助，感谢他们对活动的支持。
