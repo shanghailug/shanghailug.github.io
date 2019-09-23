@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "2019年9月月度技术分享会（草稿）"
+date:   2019-09-23 22:00:00 +0800
+categories: monthly
+hidden: true
+---
+
+大家好，9月28日(星期六)下午 SHLUG将举行2019年第2次技术交流聚会。本次聚会是和[DWeb Shanghai社区][1]合办的，这是DWeb Shanghai社区的首次活动，分享以DWeb相关内容为主。本次活动场地由流利说赞助，感谢他们对活动的支持。
+
+关于DWeb的介绍，请参见[https://hacks.mozilla.org/2018/07/introducing-the-d-web/][4]和[https://dwebcamp.org/dweb-101/][5]
+
+**地址:** 上海市杨浦区长阳路1687号，长阳创谷B 楼2层 流利说 (走法：12号线宁国路站2号口出，向东200米达长阳创谷。入园区后向北250米经过草坪达B楼。) [百度地图][2]
+
+**时间:** 2019年9月28日(星期六) 14:00 - 17:00
+
+**报名:** 不需要（本活动有[Meetup的报名页][3]，大家有兴趣可以去报名）
+
+**费用:** 不需要
+
+# 本月聚会议程：
+
+本次聚会分为4个部分，具体如下
+
+<style type="text/css" rel="stylesheet">
+table { border-collapse: collapse; margin: 1em 0em 1em 0em; }
+th, td { border: 1px solid black; padding: 0.5em; }
+</style>
+
+
+|    时间     | 内容  | 说明 |
+| :---------: | ------| ---- |
+| 14:00-14:30 | 由刘怿斯分享他和DWeb的故事，以及为何要发起DWeb Shanghai社区 |  |
+| 14:30-15:00 | DWeb社区的发起人Wendy Hanamura 和 Joachim Lohkamp分享关于DWeb最初的故事 | 根据现场情况，远程视频或者播放预录的视频 |
+| 15:00-16:00 | 由其他分享者分享一系列关于自己和DWeb的故事 | 具体分享者待定 |
+| 16:00-16:40 | 对围绕我们身边的隐私问题以及一些解决方法进行交流讨论 | 开放讨论 |
+| 16:40-17:00 | 对以后DWeb Shanghai社区的活动形式、以及可以共同努力的项目进行讨论 | 开放讨论 |
+
+根据具体情况，会在上述过程中插入休息时间。照例，在活动结束后，SHLUG会组织聚餐活动（自由参加）。
+
+[1]: https://www.meetup.com/dweb-shanghai/
+[2]: https://j.map.baidu.com/xe3vP
+[3]: https://www.meetup.com/dweb-shanghai/events/265090085/
+[4]: https://hacks.mozilla.org/2018/07/introducing-the-d-web/
+[5]: https://dwebcamp.org/dweb-101/
