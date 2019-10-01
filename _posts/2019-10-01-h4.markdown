@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2019/10/03 吃吃喝喝Hacking Thursday Night聚餐活动 暂停一次"
+date:   2019-10-01 00:00:09 +0000
+categories: h4
+---
+欢度假期，本期活动取消。
+
+有关Hacking Thursday活动的介绍：
+[http://www.shlug.org/about/#hacking-thursday](http://www.shlug.org/about/#hacking-thursday)
+
+SHLUG的新浪微博地址：[http://weibo.com/shanghailug](http://weibo.com/shanghailug) 有每次活动照片以及信息发布
+
