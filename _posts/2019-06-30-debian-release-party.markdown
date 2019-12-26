@@ -3,6 +3,7 @@ layout: post
 title:  "2019/07/06: Debian Buster Release Party@上海"
 date:   2019-06-30 18:00:00 +0000
 categories: news
+logo: debian
 ---
 
 Debian Buster 预计在 2019/07/06 发布，于是在这一日，Debian 社区将举办 Release
