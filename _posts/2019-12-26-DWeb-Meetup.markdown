@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  下一代互联网的去中心化应用和工具
-date:   2019-12-24 00:02:22 +0000
+date:   2019-12-26 20:00:00 +0800
 categories: news
 logo: dweb_shanghai
 ---
