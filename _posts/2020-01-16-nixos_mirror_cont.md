@@ -11,7 +11,7 @@ categories: discuss
 
 在完成原型脚本的初版之后，才得知dram同学已经独立完成了频道数据镜像和二进制缓冲下载的功能，[并向TUNA的镜像同步脚本代码库提交的PR][3]。此外，最近几天dram同学还对PR新增了一些文档，并向[USTCLUG提交了PR][4]。由于dram同学的工作更为完善，所以 https://github.com/shanghailug/nix_mirror 的脚本的使命是在正式的镜像脚本工作前，做一些测试工作和数据统计工作，完善上一篇帖子中的实验数据。
 
-下面是NixOS-19.09各版本间数据的变化一个统计，版本数据来自[ https://channels.nix.gsc.io/nixos-19.09/history-url ][5]（去除了Beta版本）。表中每一行是上一行的版本和本行的版本的数据变化。第一个版本是`19.09.700.724dbda1e0c`，表中未列出。
+下面是NixOS-19.09各版本间数据的变化一个统计，版本数据来自[ https://channels.nix.gsc.io/nixos-19.09/history-url ][5]（去除了Beta版本）。表中每一行是上一行的版本和本行的版本的数据变化。第一个版本是`19.09.700.724dbda1e0c`，表中未列出。表中NAR大小和下载大小单位均为`GiB`。
 
 {:class="table-with-border"}
 | 时间             | 版本                   |  路径 | NAR大小 | 下载大小 |
