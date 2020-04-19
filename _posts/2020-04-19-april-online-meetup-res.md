@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020年4月分享幻灯片及《上海Linux用户组的过去、现在和未来》整理稿
+title: 2020年4月线上分享活动的幻灯片及《上海Linux用户组的过去、现在和未来》整理稿
 date:   2020-04-19 20:00:00 +0800
 categories: monthly
 ---
