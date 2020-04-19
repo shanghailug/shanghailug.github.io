@@ -5,7 +5,7 @@ date:   2020-04-19 20:00:00 +0800
 categories: monthly
 ---
 
-大家好，下面是上周末和CCF合办的线上活动相关幻灯片资料，其中非SHLUG的资料是授权转载：
+大家好，下面是上周末和CCF合办的线上活动相关幻灯片资料，其中非SHLUG的资料是授权转载，原作者保留所有相关权利：
 
 * [上海Linux用户组的过去、现在和未来](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/SHLUG_intro.slides.tar.xz)
 * [根植中国，源汇四海，携手巨人，创新未来](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/CCF_Speech_UOS.pptx)
