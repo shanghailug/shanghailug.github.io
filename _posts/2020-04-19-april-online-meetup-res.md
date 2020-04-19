@@ -12,6 +12,8 @@ categories: monthly
 * [从边缘到云，无所不在的安卓](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/CCF_Speech_Celadon.pdf)
 * [蓬勃发展的RISC-V处理器生态](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/CCF_Speech_Nuclei.pdf)
 
+前面活动通知里面的，人才港的直播的（微信）链接可以用来看活动的录屏。
+
 下面是SHLUG做的分享《上海Linux用户组的过去、现在和未来》整理稿：
 
 ---
