@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "2020/06/04 恢复Hacking Thursday Night活动的通知，以及前面错误通知的通知"
+date:   2020-06-02 20:00:08 +0000
+categories: h4
+---
+由于脚本问题，误发了取消本周活动的通知。
+
+鉴于国内疫情已趋于平稳（学校已经开学），故恢复H4活动，请在大家出行过程中注意个人防护。
+
+* 店名：JAcafe花园咖啡
+* 点评：http://www.dianping.com/shop/2019466
+* 地址：静安区南京西路1649号静安公园内(近静安公园)
+* 走法：地铁2号线静安寺站，4号口出来，左转（不用过马路）约80米。
+* 内容：没有演讲主题,自由交流
+* 时间：一般19：00~22：00
+* 消费：随意
+
+有关Hacking Thursday活动的介绍：
+[http://www.shlug.org/about/#hacking-thursday](http://www.shlug.org/about/#hacking-thursday)
+
+SHLUG的新浪微博地址：[http://weibo.com/shanghailug](http://weibo.com/shanghailug) 有每次活动照片以及信息发布
+
