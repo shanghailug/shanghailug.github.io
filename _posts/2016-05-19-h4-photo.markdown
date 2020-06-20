@@ -5,15 +5,15 @@ date:   2016-05-20 00:16:14 +0800
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_1958_2600+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_1958_2600+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_1958_3834+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_1958_3834+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2001_5500+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2001_5500+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2002_0300+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2002_0300+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2033_3900+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2033_3900+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2100_1100+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2100_1100+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2109_2200+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2109_2200+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2151_0238+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2151_0238+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2154_1200+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g520.h4/g519_2154_1200+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_1958_2600+08.1920p.jpg'>](/res2016/g520.h4/g519_1958_2600+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_1958_3834+08.1920p.jpg'>](/res2016/g520.h4/g519_1958_3834+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2001_5500+08.1920p.jpg'>](/res2016/g520.h4/g519_2001_5500+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2002_0300+08.1920p.jpg'>](/res2016/g520.h4/g519_2002_0300+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2033_3900+08.1920p.jpg'>](/res2016/g520.h4/g519_2033_3900+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2100_1100+08.1920p.jpg'>](/res2016/g520.h4/g519_2100_1100+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2109_2200+08.1920p.jpg'>](/res2016/g520.h4/g519_2109_2200+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2151_0238+08.1920p.jpg'>](/res2016/g520.h4/g519_2151_0238+08.JPG)
+[<img style='margin:10px;' src='/res2016/g520.h4/g519_2154_1200+08.1920p.jpg'>](/res2016/g520.h4/g519_2154_1200+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/?page_id=523

@@ -5,8 +5,8 @@ date:   2017-07-27 15:11:03 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h727.h4/h727_2008_0500+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h727.h4/h727_2008_0500+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h727.h4/h727_2018_2400+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h727.h4/h727_2018_2400+08.JPG)
+[<img style='margin:10px;' src='/res2017/h727.h4/h727_2008_0500+08.1920p.jpg'>](/res2017/h727.h4/h727_2008_0500+08.JPG)
+[<img style='margin:10px;' src='/res2017/h727.h4/h727_2018_2400+08.1920p.jpg'>](/res2017/h727.h4/h727_2018_2400+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

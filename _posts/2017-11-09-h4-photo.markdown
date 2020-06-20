@@ -5,9 +5,9 @@ date:   2017-11-09 15:10:32 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/hb09.h4/hb09_1933_2900+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/hb09.h4/hb09_1933_2900+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/hb09.h4/hb09_2014_0100+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/hb09.h4/hb09_2014_0100+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/hb09.h4/hb09_2040_1100+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/hb09.h4/hb09_2040_1100+08.JPG)
+[<img style='margin:10px;' src='/res2017/hb09.h4/hb09_1933_2900+08.1920p.jpg'>](/res2017/hb09.h4/hb09_1933_2900+08.JPG)
+[<img style='margin:10px;' src='/res2017/hb09.h4/hb09_2014_0100+08.1920p.jpg'>](/res2017/hb09.h4/hb09_2014_0100+08.JPG)
+[<img style='margin:10px;' src='/res2017/hb09.h4/hb09_2040_1100+08.1920p.jpg'>](/res2017/hb09.h4/hb09_2040_1100+08.JPG)
 
 PS, 第2张照片是Belinda同学拍摄的，让一直不露面的摄影师出现在照片里，非常感谢~
 

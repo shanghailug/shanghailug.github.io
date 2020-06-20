@@ -5,12 +5,12 @@ date:   2016-12-15 15:37:29 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_1956_5800+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_1956_5800+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2024_5000+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2024_5000+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2025_0700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2025_0700+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2026_0300+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2026_0300+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2051_3400+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2051_3400+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2056_0600+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc15.h4/gc15_2056_0600+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc15.h4/gc15_1956_5800+08.1920p.jpg'>](/res2016/gc15.h4/gc15_1956_5800+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc15.h4/gc15_2024_5000+08.1920p.jpg'>](/res2016/gc15.h4/gc15_2024_5000+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc15.h4/gc15_2025_0700+08.1920p.jpg'>](/res2016/gc15.h4/gc15_2025_0700+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc15.h4/gc15_2026_0300+08.1920p.jpg'>](/res2016/gc15.h4/gc15_2026_0300+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc15.h4/gc15_2051_3400+08.1920p.jpg'>](/res2016/gc15.h4/gc15_2051_3400+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc15.h4/gc15_2056_0600+08.1920p.jpg'>](/res2016/gc15.h4/gc15_2056_0600+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

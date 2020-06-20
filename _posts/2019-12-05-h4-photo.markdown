@@ -5,10 +5,10 @@ date:   2019-12-05 13:53:10 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_1953_3100+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_1953_3100+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_1953_4600+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_1953_4600+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_2059_4700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_2059_4700+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_2100_0700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q4/master/jc05.h4/jc05_2100_0700+08.JPG)
+[<img style='margin:10px;' src='/res2019q4/jc05.h4/jc05_1953_3100+08.1920p.jpg'>](/res2019q4/jc05.h4/jc05_1953_3100+08.JPG)
+[<img style='margin:10px;' src='/res2019q4/jc05.h4/jc05_1953_4600+08.1920p.jpg'>](/res2019q4/jc05.h4/jc05_1953_4600+08.JPG)
+[<img style='margin:10px;' src='/res2019q4/jc05.h4/jc05_2059_4700+08.1920p.jpg'>](/res2019q4/jc05.h4/jc05_2059_4700+08.JPG)
+[<img style='margin:10px;' src='/res2019q4/jc05.h4/jc05_2100_0700+08.1920p.jpg'>](/res2019q4/jc05.h4/jc05_2100_0700+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

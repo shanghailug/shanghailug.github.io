@@ -5,12 +5,12 @@ date:   2018-06-07 13:11:18 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_194821278_HDR.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_194821278_HDR.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_194842009.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_194842009.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_194904434.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_194904434.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_195013440.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_195013440.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_195022001_BURST001.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_195022001_BURST001.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_195040672_BURST000_COVER_TOP.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i607.h4/IMG_20180607_195040672_BURST000_COVER_TOP.jpg)
+[<img style='margin:10px;' src='/res2018/i607.h4/IMG_20180607_194821278_HDR.1920p.jpg'>](/res2018/i607.h4/IMG_20180607_194821278_HDR.jpg)
+[<img style='margin:10px;' src='/res2018/i607.h4/IMG_20180607_194842009.1920p.jpg'>](/res2018/i607.h4/IMG_20180607_194842009.jpg)
+[<img style='margin:10px;' src='/res2018/i607.h4/IMG_20180607_194904434.1920p.jpg'>](/res2018/i607.h4/IMG_20180607_194904434.jpg)
+[<img style='margin:10px;' src='/res2018/i607.h4/IMG_20180607_195013440.1920p.jpg'>](/res2018/i607.h4/IMG_20180607_195013440.jpg)
+[<img style='margin:10px;' src='/res2018/i607.h4/IMG_20180607_195022001_BURST001.1920p.jpg'>](/res2018/i607.h4/IMG_20180607_195022001_BURST001.jpg)
+[<img style='margin:10px;' src='/res2018/i607.h4/IMG_20180607_195040672_BURST000_COVER_TOP.1920p.jpg'>](/res2018/i607.h4/IMG_20180607_195040672_BURST000_COVER_TOP.jpg)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

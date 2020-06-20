@@ -5,10 +5,10 @@ date:   2018-07-26 15:17:42 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2007_0800+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2007_0800+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2007_3200+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2007_3200+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2017_3400+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2017_3400+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2028_1800+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i726.h4/i726_2028_1800+08.JPG)
+[<img style='margin:10px;' src='/res2018/i726.h4/i726_2007_0800+08.1920p.jpg'>](/res2018/i726.h4/i726_2007_0800+08.JPG)
+[<img style='margin:10px;' src='/res2018/i726.h4/i726_2007_3200+08.1920p.jpg'>](/res2018/i726.h4/i726_2007_3200+08.JPG)
+[<img style='margin:10px;' src='/res2018/i726.h4/i726_2017_3400+08.1920p.jpg'>](/res2018/i726.h4/i726_2017_3400+08.JPG)
+[<img style='margin:10px;' src='/res2018/i726.h4/i726_2028_1800+08.1920p.jpg'>](/res2018/i726.h4/i726_2028_1800+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

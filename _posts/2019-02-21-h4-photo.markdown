@@ -5,10 +5,10 @@ date:   2019-02-21 12:32:51 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_1953_5700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_1953_5700+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_1954_4600+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_1954_4600+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_1957_0725+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_1957_0725+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_2010_2000+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q1/master/j221.h4/j221_2010_2000+08.JPG)
+[<img style='margin:10px;' src='/res2019q1/j221.h4/j221_1953_5700+08.1920p.jpg'>](/res2019q1/j221.h4/j221_1953_5700+08.JPG)
+[<img style='margin:10px;' src='/res2019q1/j221.h4/j221_1954_4600+08.1920p.jpg'>](/res2019q1/j221.h4/j221_1954_4600+08.JPG)
+[<img style='margin:10px;' src='/res2019q1/j221.h4/j221_1957_0725+08.1920p.jpg'>](/res2019q1/j221.h4/j221_1957_0725+08.JPG)
+[<img style='margin:10px;' src='/res2019q1/j221.h4/j221_2010_2000+08.1920p.jpg'>](/res2019q1/j221.h4/j221_2010_2000+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

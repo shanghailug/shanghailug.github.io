@@ -5,10 +5,10 @@ date:   2016-12-22 16:06:12 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2121_4800+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2121_4800+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2124_0300+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2124_0300+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2127_3700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2127_3700+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2138_5700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/gc22.h4/gc22_2138_5700+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc22.h4/gc22_2121_4800+08.1920p.jpg'>](/res2016/gc22.h4/gc22_2121_4800+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc22.h4/gc22_2124_0300+08.1920p.jpg'>](/res2016/gc22.h4/gc22_2124_0300+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc22.h4/gc22_2127_3700+08.1920p.jpg'>](/res2016/gc22.h4/gc22_2127_3700+08.JPG)
+[<img style='margin:10px;' src='/res2016/gc22.h4/gc22_2138_5700+08.1920p.jpg'>](/res2016/gc22.h4/gc22_2138_5700+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

@@ -7,10 +7,10 @@ categories: monthly
 
 大家好，下面是上周末和CCF合办的线上活动相关幻灯片资料，其中非SHLUG的资料是授权转载，原作者保留所有相关权利：
 
-* [上海Linux用户组的过去、现在和未来](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/SHLUG_intro.slides.tar.xz)
-* [根植中国，源汇四海，携手巨人，创新未来](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/CCF_Speech_UOS.pptx)
-* [从边缘到云，无所不在的安卓](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/CCF_Speech_Celadon.pdf)
-* [蓬勃发展的RISC-V处理器生态](https://github.com/shanghailug/res2020q2/raw/master/k411.monthly/CCF_Speech_Nuclei.pdf)
+* [上海Linux用户组的过去、现在和未来](https://github.com/shanghailug/res2020q2/raw/k411.monthly/SHLUG_intro.slides.tar.xz)
+* [根植中国，源汇四海，携手巨人，创新未来](https://github.com/shanghailug/res2020q2/raw/k411.monthly/CCF_Speech_UOS.pptx)
+* [从边缘到云，无所不在的安卓](https://github.com/shanghailug/res2020q2/raw/k411.monthly/CCF_Speech_Celadon.pdf)
+* [蓬勃发展的RISC-V处理器生态](https://github.com/shanghailug/res2020q2/raw/k411.monthly/CCF_Speech_Nuclei.pdf)
 
 前面活动通知里面的，人才港的直播的（微信）链接可以用来看活动的录屏。
 

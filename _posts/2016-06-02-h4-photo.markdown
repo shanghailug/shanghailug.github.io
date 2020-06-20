@@ -7,13 +7,13 @@ categories: h4
 
 感谢孑影同学友情提供活动照片～
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260066.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260066.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260067.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260067.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260068.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260068.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260069.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260069.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260070.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260070.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260071.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260071.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260072.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/g602.h4/photo917293461696260072.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260066.1920p.jpg'>](/res2016/g602.h4/photo917293461696260066.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260067.1920p.jpg'>](/res2016/g602.h4/photo917293461696260067.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260068.1920p.jpg'>](/res2016/g602.h4/photo917293461696260068.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260069.1920p.jpg'>](/res2016/g602.h4/photo917293461696260069.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260070.1920p.jpg'>](/res2016/g602.h4/photo917293461696260070.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260071.1920p.jpg'>](/res2016/g602.h4/photo917293461696260071.JPG)
+[<img style='margin:10px;' src='/res2016/g602.h4/photo917293461696260072.1920p.jpg'>](/res2016/g602.h4/photo917293461696260072.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/?page_id=523

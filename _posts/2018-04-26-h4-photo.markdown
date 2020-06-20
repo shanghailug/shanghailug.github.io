@@ -5,9 +5,9 @@ date:   2018-04-26 14:38:31 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i426.h4/i426_1950_4200+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i426.h4/i426_1950_4200+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i426.h4/i426_1951_0600+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i426.h4/i426_1951_0600+08.JPG)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i426.h4/i426_1956_1500+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i426.h4/i426_1956_1500+08.JPG)
+[<img style='margin:10px;' src='/res2018/i426.h4/i426_1950_4200+08.1920p.jpg'>](/res2018/i426.h4/i426_1950_4200+08.JPG)
+[<img style='margin:10px;' src='/res2018/i426.h4/i426_1951_0600+08.1920p.jpg'>](/res2018/i426.h4/i426_1951_0600+08.JPG)
+[<img style='margin:10px;' src='/res2018/i426.h4/i426_1956_1500+08.1920p.jpg'>](/res2018/i426.h4/i426_1956_1500+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

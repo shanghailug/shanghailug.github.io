@@ -5,12 +5,12 @@ date:   2018-04-12 15:04:45 +0000
 categories: h4
 ---
 
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/1197005888.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/1197005888.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/1353740219.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/1353740219.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/1576617196.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/1576617196.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/325428732.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/325428732.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/38030613.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/38030613.jpg)
-[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/950651533.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2018/master/i412.h4/950651533.jpg)
+[<img style='margin:10px;' src='/res2018/i412.h4/1197005888.1920p.jpg'>](/res2018/i412.h4/1197005888.jpg)
+[<img style='margin:10px;' src='/res2018/i412.h4/1353740219.1920p.jpg'>](/res2018/i412.h4/1353740219.jpg)
+[<img style='margin:10px;' src='/res2018/i412.h4/1576617196.1920p.jpg'>](/res2018/i412.h4/1576617196.jpg)
+[<img style='margin:10px;' src='/res2018/i412.h4/325428732.1920p.jpg'>](/res2018/i412.h4/325428732.jpg)
+[<img style='margin:10px;' src='/res2018/i412.h4/38030613.1920p.jpg'>](/res2018/i412.h4/38030613.jpg)
+[<img style='margin:10px;' src='/res2018/i412.h4/950651533.1920p.jpg'>](/res2018/i412.h4/950651533.jpg)
 
 
 分享 _Type Driven Development - Refinement Types in a Functional Language_ [slides](https://gist.github.com/yaroot/408261ed49693bc9a2bff3c615400588/raw/f7f11b6ffff0f92fbcd776e1268d4f953febd228/refined-types.pdf)
