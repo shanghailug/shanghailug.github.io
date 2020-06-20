@@ -5,7 +5,7 @@ date:   2019-03-14 16:18:51 +0000
 categories: h4
 ---
 
-[<img src='https://raw.githubusercontent.com/shanghailug/res2019q1/master/j314.h4/IMG_20190314_202231.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q1/master/j314.h4/IMG_20190314_202231.jpg)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2019q1/master/j314.h4/IMG_20190314_202231.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2019q1/master/j314.h4/IMG_20190314_202231.jpg)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

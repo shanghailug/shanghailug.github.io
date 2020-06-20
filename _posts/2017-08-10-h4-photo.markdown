@@ -5,9 +5,9 @@ date:   2017-08-10 14:34:27 +0000
 categories: h4
 ---
 
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_1947_0800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_1947_0800+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2013_2700+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2013_2700+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2106_2000+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2106_2000+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_1947_0800+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_1947_0800+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2013_2700+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2013_2700+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2106_2000+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h810.h4/h810_2106_2000+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

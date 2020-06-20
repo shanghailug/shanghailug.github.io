@@ -5,10 +5,10 @@ date:   2016-10-13 15:40:31 +0000
 categories: h4
 ---
 
-[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2018_5300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2018_5300+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2019_1200+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2019_1200+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2030_4300+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2030_4300+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2120_4500+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2120_4500+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2018_5300+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2018_5300+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2019_1200+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2019_1200+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2030_4300+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2030_4300+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2120_4500+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2016/master/ga13.h4/ga13_2120_4500+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday

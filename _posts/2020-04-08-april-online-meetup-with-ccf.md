@@ -33,4 +33,4 @@ ZOOM的使用可能需要帐号，人才港云课堂直播需要登录微信。�
 
 * 活动海报
 
-[<img src="/img/post/2020-04-08.jpg">](https://www.shlug.org/img/post/2020-04-08.jpg)
+[<img style='margin:10px;' src="/img/post/2020-04-08.jpg">](https://www.shlug.org/img/post/2020-04-08.jpg)

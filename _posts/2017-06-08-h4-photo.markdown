@@ -5,11 +5,11 @@ date:   2017-06-08 14:54:21 +0000
 categories: h4
 ---
 
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2038_5800+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2038_5800+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2039_0900+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2039_0900+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2040_5100+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2040_5100+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2057_4000+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2057_4000+08.JPG)
-[<img src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2058_0400+08.240x160.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2058_0400+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2038_5800+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2038_5800+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2039_0900+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2039_0900+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2040_5100+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2040_5100+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2057_4000+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2057_4000+08.JPG)
+[<img style='margin:10px;' src='https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2058_0400+08.1920p.jpg'>](https://raw.githubusercontent.com/shanghailug/res2017/master/h608.h4/h608_2058_0400+08.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday
