@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2020-11-19 13:12:38 +0000
+categories: h4
+---
+
+[<img src='/res2020q4/kb19.h4/kb19_1957_0100+08.1920p.jpg' style='margin:10px'>](/res2020q4/kb19.h4/kb19_1957_0100+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
