@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2021-04-22 13:23:26 +0000
+categories: h4
+---
+
+[<img src='/res2021q2/l422.h4/l422_1942_0600+08.1920p.jpg' style='margin:10px'>](/res2021q2/l422.h4/l422_1942_0600+08.JPG)
+[<img src='/res2021q2/l422.h4/l422_1942_2100+08.1920p.jpg' style='margin:10px'>](/res2021q2/l422.h4/l422_1942_2100+08.JPG)
+[<img src='/res2021q2/l422.h4/l422_2019_5900+08.1920p.jpg' style='margin:10px'>](/res2021q2/l422.h4/l422_2019_5900+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
