@@ -5,9 +5,9 @@ date:   2021-07-01 15:08:35 +0000
 categories: h4
 ---
 
-[<img src='/res2021q3/l701.h4/l701_001.jpg' style='margin:10px'>](/res2021q3/l701.h4/l701_01.JPG)
-[<img src='/res2021q3/l701.h4/l701_002.jpg' style='margin:10px'>](/res2021q3/l701.h4/l701_02.JPG)
-[<img src='/res2021q3/l701.h4/l701_003.jpg' style='margin:10px'>](/res2021q3/l701.h4/l701_03.JPG)
+[<img src='/res2021q3/l701.h4/l701_001.jpg' style='margin:10px'>](/res2021q3/l701.h4/l701_001.JPG)
+[<img src='/res2021q3/l701.h4/l701_002.jpg' style='margin:10px'>](/res2021q3/l701.h4/l701_002.JPG)
+[<img src='/res2021q3/l701.h4/l701_003.jpg' style='margin:10px'>](/res2021q3/l701.h4/l701_003.JPG)
 
 有关Hacking Thursday活动的介绍：
 http://www.shlug.org/about/#hacking-thursday
