@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "今晚Hacking Thursday Night活动照片"
+date:   2021-12-30 13:06:08 +0000
+categories: h4
+---
+
+[<img src='/res2021q4/lc30.h4/lc30_2000_3702+08.1920p.jpg' style='margin:10px'>](/res2021q4/lc30.h4/lc30_2000_3702+08.JPG)
+[<img src='/res2021q4/lc30.h4/lc30_2001_5103+08.1920p.jpg' style='margin:10px'>](/res2021q4/lc30.h4/lc30_2001_5103+08.JPG)
+
+有关Hacking Thursday活动的介绍：
+http://www.shlug.org/about/#hacking-thursday
+
+SHLUG的新浪微博地址：http://weibo.com/shanghailug 有每次活动照片以及信息发布
+
+
