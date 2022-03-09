@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "取消2022/03/10 Hacking Thursday Night活动"
+date:   2022-03-09 08:00:08 +0000
+categories: h4
+---
+因疫情原因，取消3月10日Hacking Thursday Night活动。下周四是否恢复请等待后续通知。
