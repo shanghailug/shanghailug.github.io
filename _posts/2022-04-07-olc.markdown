@@ -15,11 +15,8 @@ categories: news
 
 下面是具体的视频会议信息：
 
-Topic: SHLUG 线上闲谈会
-Time: Apr 8, 2022 08:30 PM Beijing, Shanghai
-
-Join Zoom Meeting
-https://us02web.zoom.us/j/86943527562?pwd=akEyOGtTL2dtRmxyVGxIbzRWSm1QUT09
-
-Meeting ID: 869 4352 7562
-Passcode: linux
+* Topic: SHLUG 线上闲谈会
+* Time: Apr 8, 2022 08:30 PM Beijing, Shanghai
+* [Join Zoom Meeting](https://us02web.zoom.us/j/86943527562?pwd=akEyOGtTL2dtRmxyVGxIbzRWSm1QUT09)
+* Meeting ID: 869 4352 7562
+* Passcode: linux
