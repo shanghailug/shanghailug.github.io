@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "2022年4月8日晚举行线上闲聊活动"
+date:   2022-04-07 20:00:08 +0800
+categories: news
+---
+大家好，最近上海因为疫情原因，无法举行线下活动。上周五晚，我们尝试了一次
+线上的闲聊活动，效果不错。因此暂定在每周五晚20:30举行线上闲聊活动。
+
+活动没有固定的主题，以闲聊为主。若有什么东西想分享给大家，可以提前进入视
+频会议室（会议室大概会提前半小时开），通过文本的方式发出来。
+
+活动由社区的jiang同学发起并主持，活动暂时使用zoom进行，后续会评估jitsi等
+更自由的解决方案。
+
+下面是具体的视频会议信息：
+
+Topic: SHLUG 线上闲谈会
+Time: Apr 8, 2022 08:30 PM Beijing, Shanghai
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/86943527562?pwd=akEyOGtTL2dtRmxyVGxIbzRWSm1QUT09
+
+Meeting ID: 869 4352 7562
+Passcode: linux
