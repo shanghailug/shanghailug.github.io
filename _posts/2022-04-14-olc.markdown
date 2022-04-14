@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "2022年4月15日晚举行线上闲聊活动"
+date:   2022-04-14 20:00:08 +0800
+categories: news
+---
+大家好，本周五（4月15日）继续举行线上的闲聊活动，活动晚上20:30正式开始，
+照例由jiang同学主持。
+
+活动没有固定的主题，以闲聊为主，若大家有什么想分享的，请提前告知。
+
+活动正式开始前半小时，我们打算测试通过[jitsi](https://meet.jit.si)（准确的说是Jitsi Meet）进
+行视频会议的效果，希望有空的同学积极参与，若效果可以接受，则正式活动继续
+使用jitsi进行。大家也可以在测试时，通过jitsi的文本频道告知想分享的内容。
+用于测试的URL如下，会在明天20:00前可用：
+
+[https://jitsi.ycy.me/shlug](https://jitsi.ycy.me/shlug)
+
+若jitsi测试的效果不理想，则正式活动将继续使用zoom，相关信息如下：
+
+* Topic: SHLUG 线上闲谈会
+* Time: Apr 15, 2022 08:30 PM Beijing, Shanghai
+* [Join Zoom Meeting](https://us02web.zoom.us/j/88066034963?pwd=UXdmSDQ5bVd4eURxdWFXcyszcXBvZz09)
+* Meeting ID: 880 6603 4963
+* Passcode: linux
+
+PS：此次测试的jitsi服务由好心的社区成员搭建，若有同学想自己搭建jitsi服务，
+或者想捐赠VPS用于jitsi的服务，欢迎联系SHLUG维护者。
