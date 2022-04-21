@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "2022年4月22日晚举行线上闲聊活动"
+date:   2022-04-21 20:00:08 +0800
+categories: news
+---
+大家好，本周五（4月22日）继续举行线上的闲聊活动，活动晚上20:30正式开始。如果打算参加的话，可以提前在本次活动的[共享文档](https://jitsi.ycy.me/etherpad/p/shlug)上报名（非强制）。
+
+活动没有固定的主题，以闲聊为主，若大家有什么想分享的，也请提前在共享文档列出。
+
+参加活动的链接如下：
+[https://jitsi.ycy.me/shlug](https://jitsi.ycy.me/shlug)
