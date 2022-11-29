@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "更正：2022/12/01不举行Hacking Thursday Night活动"
+date:   2022-11-29 20:00:06 +0000
+categories: h4
+---
+十分抱歉，因脚本配置错误，发送了错误的通知。
