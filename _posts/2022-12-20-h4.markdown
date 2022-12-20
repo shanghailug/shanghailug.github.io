@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2022/12/22 暂停本周Hacking Thursday Night活动"
+date:   2022-12-20 00:00:03 +0000
+categories: h4
+---
+因为其他原因，本期活动取消。
+
+有关Hacking Thursday活动的介绍：
+[http://www.shlug.org/about/#hacking-thursday](http://www.shlug.org/about/#hacking-thursday)
+
+SHLUG的新浪微博地址：[http://weibo.com/shanghailug](http://weibo.com/shanghailug) 有每次活动照片以及信息发布
+
