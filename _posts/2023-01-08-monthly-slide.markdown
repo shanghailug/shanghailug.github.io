@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2022年12月月度交流分享活动资料"
-date:   2023-01-08 21:00:00 +0000
+date:   2023-01-08 21:00:00 +0800
 categories: monthly
 ---
 
