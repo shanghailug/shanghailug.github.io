@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "2023/02/09 吃吃喝喝Hacking Thursday Night聚餐活动 at JAcafe花园咖啡"
+title:  "2023/02/09 吃吃喝喝Hacking Thursday Night聚餐活动 at JAcafe花园咖啡（更新）"
 date:   2023-02-08 18:39:54 +0800
 categories: h4
 ---
+经过热心群友实地踩点，决定明天恢复H4活动，前一个通知作废。
+
 - 店名：JAcafe花园咖啡
 - 点评：[http://www.dianping.com/shop/2019466](http://www.dianping.com/shop/2019466)
 - 地址：静安区南京西路1649号静安公园内(近静安公园)

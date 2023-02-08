@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "2023/02/09 暂停本周Hacking Thursday Night活动"
+title:  "2023/02/09 暂停本周Hacking Thursday Night活动（作废）"
 date:   2023-02-07 00:00:02 +0000
 categories: h4
 ---
+本通知作废，见后一个通知。
+
+下面是原通知：
+
 因为其他原因，本期活动取消。
 
 有关Hacking Thursday活动的介绍：
