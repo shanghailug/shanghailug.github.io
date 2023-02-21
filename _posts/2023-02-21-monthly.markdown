@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "2023年2月月度技术分享会"
+date:   2023-02-21 21:30:00 +0800
+categories: monthly
+---
+大家好, 2月25日（周六）下午SHLUG将举行2023年首次月度分享活动。活动有两个分享主题，分别是关于4G通信模块的使用，以及picorv32上朴素的协程实现。本次活动场地由[Airwallex](https://www.airwallex.com.cn/)赞助，非常感谢Airwallex对SHLUG活动的支持。
+
+## 基本信息
+
+**地址:** [中海寰宇荟](https://amap.com/place/B0FFJATJ19)A座21楼（地铁可在9号线、13号线马当路站下）
+
+**时间:** 2023年2月25日(星期六) 14:15 - 16:40
+
+**报名:** 不需要
+
+**费用:** 不需要
+
+## 聚会内容
+1. **4G通信模块在Linux系统上的使用** 演讲者: ck
+2. **A naive coroutine implementation on picorv32** 演讲者: Yu Changyuan
+
+### 时间安排
+- 14:15 - 14:20 开场
+- 14:20 - 15:20 4G通信模块在Linux系统上的使用
+- 15:20 - 15:40 中间休息
+- 15:40 - 16:40 A naive coroutine implementation on picorv32
+
+## 具体信息
+
+### 主题1
+
+4G通信模块在Linux系统上的使用
+
+#### 简介
+
+简单的介绍4G通信模块在Linux系统的使用，包括AT指令、NDIS拨号上网、收发短信以及拨打电话等。分享过程中，会以Waveshare的SIM7600G-H模块为例，进行实际的演示。
+
+### 主题2
+
+A naive coroutine implementation on picorv32
+
+#### 简介
+
+介绍在picorv32上通过朴素的方式实现协程功能，并通过仿真环境进行简单的测试。听众需要对嵌入式C语言的开发有一定程度了解并知道协程的概念，如果对RISC-V汇编有所了解则更好。此外，参加活动前，建议阅读之前月度活动的资料[1](https://github.com/yuchangyuan/run_c_snippet_on_picorv32)、[2](https://github.com/shanghailug/res2023q1/blob/main/Coroutine_Intro_with_Rust.pdf)以了解本主题的背景。
