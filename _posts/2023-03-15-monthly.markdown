@@ -45,7 +45,6 @@ categories: monthly
 
 **小岛**，前谷歌工程师，ACM 亚洲赛区区域赛金牌，游戏开发软件 GameCreator 联创。
 最近在家里蹲写开源软件，给 EasyRPG、Minetest、Emscripten 等开源项目贡献过代码。
-A naive coroutine implementation on picorv32
 
 演讲将以 EasyRPG 举例，介绍如何利用 Stable Diffusion 绘制角色立绘和 CG 制作游
 戏原型，以及如何使用 OpenAI API 与 ChatGPT 进行交互，并探讨如何设计与 AI 相关
