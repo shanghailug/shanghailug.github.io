@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "本月月度交流分享活动照片"
+title:  "本月月度交流分享活动照片以及资料"
 date:   2023-03-26 11:44:57 +0000
 categories: monthly
 ---
+本次活动资料：
+
+* [模型加速与 AI compiler 介绍](/res2023q1/n326.monthly/模型加速与+AI+compiler+介绍.pdf)
+* [AI 独立游戏开发应用](https://docs.google.com/presentation/d/16401RwFHypSLJwpn5OeIrEZg_cuTp6_xF8jGedx7KQQ/mobilepresent?slide=id.p)
+
+下面是本次活动的照片：
 
 [<img src='/res2023q1/n326.monthly/n325_1424_3654+08.1920p.jpg' style='margin:10px'>](/res2023q1/n326.monthly/n325_1424_3654+08.JPG)
 [<img src='/res2023q1/n326.monthly/n325_1424_5555+08.1920p.jpg' style='margin:10px'>](/res2023q1/n326.monthly/n325_1424_5555+08.JPG)
