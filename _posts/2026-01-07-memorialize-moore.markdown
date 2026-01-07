@@ -2,7 +2,7 @@
 layout: post
 title:  "纪念老木"
 date:   2026-01-07 21:00:00 +0800
-categories: h4
+permalink: /memorialize-moore/
 ---
 SHLUG 先驱，上海自由软件活动的先行者，牟官迅先生，AKA 老木，已经离开了我们。
 
