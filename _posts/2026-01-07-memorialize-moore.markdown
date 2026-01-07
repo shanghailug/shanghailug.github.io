@@ -4,8 +4,6 @@ title:  "纪念老木"
 date:   2026-01-07 21:00:00 +0800
 categories: h4
 ---
-## 纪念老木
-
 SHLUG 先驱，上海自由软件活动的先行者，牟官迅先生，AKA 老木，已经离开了我们。
 
 作为Shanghai Linux User Group( SHLUG)的早期成员，老木在90年代末与00年代为Linux 在上海的推广使用作出了卓越贡献，他热情地在技术社区传授Linux和UNIX技术，是大家的好朋友。
